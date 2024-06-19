@@ -3,7 +3,7 @@
 <body>
 
 <h1>I love DevOps</h1>
-<p>I will get a job as a DevOPs engineer</p>
+<p>I will complete AWS , Azure and Oracle DevOps certifications</p>
 
 </body>
 </html>
