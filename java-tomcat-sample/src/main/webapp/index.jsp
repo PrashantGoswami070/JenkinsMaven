@@ -3,7 +3,7 @@
 <body>
 
 <h1>I love DevOps</h1>
-<p>I will complete AWS , Azure and Oracle DevOps certifications.</p>
+<p>I have to complete AWS , Azure and Oracle DevOps certifications.</p>
 
 </body>
 </html>
