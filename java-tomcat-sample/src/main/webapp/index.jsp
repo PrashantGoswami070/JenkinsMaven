@@ -4,7 +4,7 @@
 
 <h1>I love DevOps</h1>
 <h2>I love DevOps Very Much</h2>
-<p>I have to complete Oracla AI and Terraform certifications by 31 July.</p>
+<p>I have to complete Oracle AI and Terraform certifications by 31 July.</p>
 
 </body>
 </html>
