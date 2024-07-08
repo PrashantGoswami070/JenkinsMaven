@@ -3,7 +3,7 @@
 <body>
 
 <h1>I love DevOps</h1>
-<p>I have to complete Oracle AI, Azure and Terraform certifications by 31 July.</p>
+<p>I have to complete Terraform certifications by 31 July and get a job before 31st July.</p>
 
 </body>
 </html>
